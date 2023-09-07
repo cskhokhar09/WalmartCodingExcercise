@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WalmartCodingExercise</string>
+    <string name="divider">-----------------------------</string>
+    <string name="error_message">Something went wrong fetching the data</string>
+</resources>
